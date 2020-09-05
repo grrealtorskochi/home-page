@@ -1,0 +1,32 @@
+.background{
+    margin-top: 50px;
+}
+
+.btn3{
+    width: 250px;
+    height: 50px;
+    /* background-image: linear-gradient(120deg,#3498db,#8e44ad); */
+    background: linear-gradient(120deg, #cc00cc , #66ff99 );
+    border: none; 
+    border-radius: 6px;
+    color: white;
+    font-size: bold; 
+     /* outline: none;  */
+     cursor: pointer;
+}
+
+.btn3:active{
+    outline: green;
+}
+
+.green{
+    /* color: green; */
+    background:green;
+}
+
+.head{
+    font-family: Times New Roman, Times, serif;
+    font-weight: bold;
+}
+
+ 
