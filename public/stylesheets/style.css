@@ -6,7 +6,7 @@
 .more:hover{color: #fff; padding: 10px 15px; border:#fff solid 1px}.more:hover::before{opacity: 0}.more.black{color: #000}
 .more.black::before{background: #000}.more.black:hover{color: #000; border: #000 solid 1px}.fixed{background-color: #563d7c}
 .scrolling {background-color:black;opacity: 0.5}
-.sidebar {height: 100%;width: 0;position: fixed;z-index: 1;top: 0;left: 0;background-color:#563d7c ;overflow-x: hidden;padding-top: 60px;-webkit-transition-duration: .5s;-moz-transition-duration: .5s;-o-transition-duration: .5s;transition-duration: .5s;opacity: 0.95}.sidebar a{padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: lightgreen;display: block;word-wrap: normal;transition: 0.9s}
+.sidebar {height: 100%;width: 0;position: fixed;z-index: 1;top: 0;left: 0;background-color:#563d7c ;overflow-x: hidden;padding-top: 60px;-webkit-transition-duration: .5s;-moz-transition-duration: .5s;-o-transition-duration: .5s;transition-duration: .5s;opacity: 0.95;text-align: center;}.sidebar a{padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: lightgreen;display: block;word-wrap: normal;transition: 0.9s}
 .sidebar a:hover{text-decoration: none;color: whitesmoke}
 .sidebar .closebtn {position: absolute;top: 0;right: 25px;font-size: 36px;margin-left: 50px}
 .openbtn:hover{border: none;color:gray}.openbtn:focus{outline:0px}
