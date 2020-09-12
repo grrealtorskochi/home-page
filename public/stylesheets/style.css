@@ -104,3 +104,7 @@
 .td{
     text-decoration: none;
 }
+
+.head-slide::-webkit-scrollbar{
+    display: none;
+}
